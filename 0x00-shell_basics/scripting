@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "file name"
-read var
-chmod +x var
-
