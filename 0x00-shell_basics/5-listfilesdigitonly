@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -antrh
+ls -la
